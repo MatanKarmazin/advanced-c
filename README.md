@@ -18,15 +18,15 @@ Not all code in this repository is guaranteed to compile or work as intended. Th
 ```
 
 advanced-c/
-├── homework/
-├── projects/
 ├── class-work/
+├── assignment/
+├── misc/
 └── README.md
 
 ```
 
 - `class-work/`: Code written during classes or tutorials.
-- `Assignment/`: More complex or multi-file programs.
+- `assignment/`: More complex or multi-file programs.
 - `misc/`: Experimental files, tests, or rough drafts.
 
 ---
